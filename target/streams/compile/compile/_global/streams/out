@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/nghiaht/IdeaProjects/scalaPluralsight/project/target/.sbt-compilation-infos/scalapluralsight-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/nghiaht/IdeaProjects/scalaPluralsight/src/main/scala/scalaFuntionsMethods/ValVarLazyValDef.scala:8:37: fruitless type test: a value of type Array[Int] => Int cannot also be a Int => Int (but still might match its erasure)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  println(getLengthFunc.isInstanceOf[Function1[Int, Int]])[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/nghiaht/IdeaProjects/scalaPluralsight/project/target/.sbt-compilation-infos/scalapluralsight-compile/.sbt-idea-lock.[0m

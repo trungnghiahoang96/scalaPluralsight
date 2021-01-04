@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/nghiaht/IdeaProjects/scalaPluralsight/target/scala-2.13/scalapluralsight_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaFuntionsMethods[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nghiaht/IdeaProjects/scalaPluralsight/target/scala-2.13/classes/scalaFuntionsMethods[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaFuntionsMethods/ValVarLazyValDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nghiaht/IdeaProjects/scalaPluralsight/target/scala-2.13/classes/scalaFuntionsMethods/ValVarLazyValDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaFuntionsMethods/ValVarLazyValDef$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nghiaht/IdeaProjects/scalaPluralsight/target/scala-2.13/classes/scalaFuntionsMethods/ValVarLazyValDef$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scalaFuntionsMethods/ValVarLazyValDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nghiaht/IdeaProjects/scalaPluralsight/target/scala-2.13/classes/scalaFuntionsMethods/ValVarLazyValDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
